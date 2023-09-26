@@ -1,10 +1,10 @@
-- Getting started
-
-  - [Quick start](quickstart.md)
-  - [Writing more pages](more-pages.md)
-  - [Custom navbar](custom-navbar.md)
-  - [Cover page](cover.md)
-
-
-- [Awesome docsify](cover.md)
-- [Changelog](cover.md)
+- [Connexion au portail](connect.md)
+- [Vue d'ensemble du portail](portal-overview.md)
+- [Tableau de bord](dashboard.md)
+- [Médias](media.md)
+- [Applications](applications.md)
+- [Playlists](playlists.md)
+- [Mises en page](layouts.md)
+- [Programmations](schedule.md)
+- [Moniteurs](monitors.md)
+- [Players supportés](supported-players.md)

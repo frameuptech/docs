@@ -2,10 +2,9 @@
 - [Vue d'ensemble du portail](portal-overview.md)
 - [Tableau de bord](dashboard.md)
 - [Médias](media.md)
-- [Applications](applications.md)
+- [Apps](applications.md)
 - [Playlists](playlists.md)
-- [Mises en page](layouts.md)
+- [Compositions](layouts.md)
 - [Programmations](schedule.md)
-- [Moniteurs](monitors.md)
+- [Écrans](monitors.md)
 - [Players supportés](supported-players.md)
-- Hello aux fondateurs ...

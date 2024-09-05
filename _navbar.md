@@ -1,7 +1,15 @@
-* [:fr:](/)
-* [:us:](/en/)
-
-* Liens
-
-  * [FrameUp Console](http://app.frameup.tech/)
-  * [FrameUp](http://frameup.tech)
+- [Bienvenue](README.md)
+- [Le portail](logging-into-the-portal.md)
+- [Le tableau de bord](the-dashboard.md)
+- [Médias](media.md)
+  - [Images](images.md)
+  - [Vidéos](videos.md)
+  - [Actifs audio](4-5-audio-assets.md)
+  - [Documents](4-6-documents.md)
+- [Applications](5-widgets.md)
+- [Playlists](6-1-adding-a-playlist.md)
+- [Mises en page](7-layouts.md)
+- [Plannings](8-schedules.md)
+- [Écrans](9-monitors.md)
+- [Mon profil](10-my-user-profile.md)
+- [Paramètres](11-account-settings.md)
